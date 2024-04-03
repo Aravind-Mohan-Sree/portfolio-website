@@ -1,0 +1,23 @@
+/* GLOBALS */
+
+body {
+  font-family: Quicksand, sans-serif;
+}
+
+/* NAV BAR */
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  font-size: 20px;
+}
+
+/* HERO SECTION */
+
+.portfolio-block.block-intro p span {
+  font-weight: 800;
+}
+
+.portfolio-block {
+  padding-top: 60px!important;
+  padding-bottom: 0;
+}
+
